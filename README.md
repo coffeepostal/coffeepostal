@@ -8,18 +8,18 @@
 - ⚡ I play music (mostly the guitar), make movies, and do random creative shit all the time. If you're into something, chances are I'm either interested in it, or would be stoked to hear you tell me about it.
 
 ### Connect With Me
-[<img align="left" alt="Farns.Co" width="1.5rem" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">][website]
-[<img align="left" alt="FarnsCo Twitter" width="1.5rem" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">][twitter]
-[<img align="left" alt="FarnsCo Instagram" width="1.5rem" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">][instagram]
+[<img align="left" alt="Farns.Co" width="24px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">][website]
+[<img align="left" alt="FarnsCo Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">][twitter]
+[<img align="left" alt="FarnsCo Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">][instagram]
 
 <br />
 
 ### Languages and Tools
-<img align="left" alt="Visual Studio Code" width="1.5rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
-<img align="left" alt="HTML5" width="1.5rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<img align="left" alt="CSS3" width="1.5rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img align="left" alt="SCSS" width="1.5rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scss/scss.png">
-<img align="left" alt="JavaScript" width="1.5rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img align="left" alt="Visual Studio Code" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
+<img align="left" alt="HTML5" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+<img align="left" alt="CSS3" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+<img align="left" alt="SCSS" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scss/scss.png">
+<img align="left" alt="JavaScript" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 
 <br />
 <br />
