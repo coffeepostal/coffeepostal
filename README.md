@@ -1,4 +1,4 @@
-# Hello! My name is Adam (he/him) — aka [coffeepostal][github] \ [FarnsCo][website]
+# Hello! My name is Adam (he/him) — aka [coffeepostal][github] / [FarnsCo][website]
 
 ## I'm Frontend Developer, Podcaster, Motion Designer, and aspiring Social Worker
 - 🎧  I'm currently co-hosting and producing [None of This is Reel](https://www.noneofthisisreel.com), a movie podcast with my friend Nick Rennis
